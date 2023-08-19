@@ -1,0 +1,21 @@
+[
+    {
+    "id":1,
+    "name": "khaled yehia",
+    "email":"khaled.yehia@gmail.com",
+    "avatar":"https://cdn-icons-png.flaticon.com/512/149/149071.png",
+    "skills": ["skill1", "skill2", "skill3"],
+    "bio_en":"web dev1",
+    "bio_ar":"web dev ar"
+    },
+
+    {
+        "id":3,
+        "name": "khaled yehia3",
+        "email":"khaled.yehia3@gmail.com",
+        "avatar":"https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "skills": ["skill4", "skill5", "skill6"],
+        "bio_en":"web dev4",
+        "bio_ar":"web dev4 ar"
+        }
+]
